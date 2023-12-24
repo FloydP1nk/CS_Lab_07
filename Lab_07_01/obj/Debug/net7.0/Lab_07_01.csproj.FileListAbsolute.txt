@@ -1,0 +1,15 @@
+/Users/pavelerokhin/CS_Labs/Lab_07/Lab_07_01/bin/Debug/net7.0/Lab_07_01
+/Users/pavelerokhin/CS_Labs/Lab_07/Lab_07_01/bin/Debug/net7.0/Lab_07_01.deps.json
+/Users/pavelerokhin/CS_Labs/Lab_07/Lab_07_01/bin/Debug/net7.0/Lab_07_01.runtimeconfig.json
+/Users/pavelerokhin/CS_Labs/Lab_07/Lab_07_01/bin/Debug/net7.0/Lab_07_01.dll
+/Users/pavelerokhin/CS_Labs/Lab_07/Lab_07_01/bin/Debug/net7.0/Lab_07_01.pdb
+/Users/pavelerokhin/CS_Labs/Lab_07/Lab_07_01/obj/Debug/net7.0/Lab_07_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelerokhin/CS_Labs/Lab_07/Lab_07_01/obj/Debug/net7.0/Lab_07_01.AssemblyInfoInputs.cache
+/Users/pavelerokhin/CS_Labs/Lab_07/Lab_07_01/obj/Debug/net7.0/Lab_07_01.AssemblyInfo.cs
+/Users/pavelerokhin/CS_Labs/Lab_07/Lab_07_01/obj/Debug/net7.0/Lab_07_01.csproj.CoreCompileInputs.cache
+/Users/pavelerokhin/CS_Labs/Lab_07/Lab_07_01/obj/Debug/net7.0/Lab_07_01.dll
+/Users/pavelerokhin/CS_Labs/Lab_07/Lab_07_01/obj/Debug/net7.0/refint/Lab_07_01.dll
+/Users/pavelerokhin/CS_Labs/Lab_07/Lab_07_01/obj/Debug/net7.0/Lab_07_01.pdb
+/Users/pavelerokhin/CS_Labs/Lab_07/Lab_07_01/obj/Debug/net7.0/Lab_07_01.genruntimeconfig.cache
+/Users/pavelerokhin/CS_Labs/Lab_07/Lab_07_01/obj/Debug/net7.0/ref/Lab_07_01.dll
+/Users/pavelerokhin/CS_Labs/Lab_07/Lab_07_01/obj/Debug/net7.0/Lab_07_01.sourcelink.json
