@@ -10,7 +10,7 @@ Cow cow = new Cow
     WhatAnimal = "Cow"
 };
 XmlSerializer serializer = new XmlSerializer(typeof(Cow));
-using (StreamWriter writer = new StreamWriter("/Users/pavelerokhin/CS_Labs"))
+using (StreamWriter writer = new StreamWriter("/Users/pavelerokhin/CS_Labs/Cow.xml"))
 {
     serializer.Serialize(writer, cow);
 }
