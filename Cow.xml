@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Country>USA</Country>
+  <HideFromOtherAnimals>Green Pastures</HideFromOtherAnimals>
+  <Name>Corova</Name>
+  <WhatAnimal>Cow</WhatAnimal>
+</Cow><?xml version="1.0" encoding="utf-8"?>
+<Lion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Country>USA</Country>
+  <HideFromOtherAnimals>Green Pastures</HideFromOtherAnimals>
+  <Name>Lev</Name>
+  <WhatAnimal>Lion</WhatAnimal>
+</Lion><?xml version="1.0" encoding="utf-8"?>
+<Pig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Country>USA</Country>
+  <HideFromOtherAnimals>Green Pastures</HideFromOtherAnimals>
+  <Name>Svin</Name>
+  <WhatAnimal>Pig</WhatAnimal>
+</Pig>

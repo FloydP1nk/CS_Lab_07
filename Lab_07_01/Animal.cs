@@ -107,7 +107,7 @@ public class Animal
             Console.WriteLine("meow");
         }
     }
-    
+
     [Comment("Реализация класса льва на основе животного")]
     public class Pig : Alimal
     {
@@ -135,6 +135,4 @@ public class Animal
             Console.WriteLine("Oink oink");
         }
     }
-
-
 }

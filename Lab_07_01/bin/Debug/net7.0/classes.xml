@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<classes>
+  <class name="Lab_07_01.Animal">
+    <properties />
+    <methods>
+      <method1>System.Type GetType()</method1>
+      <method2>System.String ToString()</method2>
+      <method3>Boolean Equals(System.Object)</method3>
+      <method4>Int32 GetHashCode()</method4>
+    </methods>
+  </class>
+  <class name="Lab_07_01.Animal+eFavouriteFood">
+    <properties />
+    <methods>
+      <method1>Boolean HasFlag(System.Enum)</method1>
+      <method2>Boolean Equals(System.Object)</method2>
+      <method3>Int32 GetHashCode()</method3>
+      <method4>System.String ToString()</method4>
+      <method5>Int32 CompareTo(System.Object)</method5>
+      <method6>System.String ToString(System.String, System.IFormatProvider)</method6>
+      <method7>System.String ToString(System.String)</method7>
+      <method8>System.String ToString(System.IFormatProvider)</method8>
+      <method9>System.TypeCode GetTypeCode()</method9>
+      <method10>System.Type GetType()</method10>
+    </methods>
+  </class>
+  <class name="Lab_07_01.Animal+CommentAttribute">
+    <properties>
+      <property1>System.String Comment</property1>
+      <property2>System.Object TypeId</property2>
+    </properties>
+    <methods>
+      <method1>System.String get_Comment()</method1>
+      <method2>Void set_Comment(System.String)</method2>
+      <method3>Boolean Equals(System.Object)</method3>
+      <method4>Int32 GetHashCode()</method4>
+      <method5>System.Object get_TypeId()</method5>
+      <method6>Boolean Match(System.Object)</method6>
+      <method7>Boolean IsDefaultAttribute()</method7>
+      <method8>System.Type GetType()</method8>
+      <method9>System.String ToString()</method9>
+    </methods>
+  </class>
+  <class name="Lab_07_01.Animal+Alimal">
+    <properties />
+    <methods>
+      <method1>System.String GetClassificationAnimal()</method1>
+      <method2>eFavouriteFood GetFavoriteFood()</method2>
+      <method3>Void SayHello()</method3>
+      <method4>System.Type GetType()</method4>
+      <method5>System.String ToString()</method5>
+      <method6>Boolean Equals(System.Object)</method6>
+      <method7>Int32 GetHashCode()</method7>
+    </methods>
+  </class>
+  <class name="Lab_07_01.Animal+Cow">
+    <properties>
+      <property1>System.String Country</property1>
+      <property2>System.String HideFromOtherAnimals</property2>
+      <property3>System.String Name</property3>
+      <property4>System.String WhatAnimal</property4>
+    </properties>
+    <methods>
+      <method1>System.String get_Country()</method1>
+      <method2>Void set_Country(System.String)</method2>
+      <method3>System.String get_HideFromOtherAnimals()</method3>
+      <method4>Void set_HideFromOtherAnimals(System.String)</method4>
+      <method5>System.String get_Name()</method5>
+      <method6>Void set_Name(System.String)</method6>
+      <method7>System.String get_WhatAnimal()</method7>
+      <method8>Void set_WhatAnimal(System.String)</method8>
+      <method9>eFavouriteFood GetFavoriteFood()</method9>
+      <method10>Void SayHello()</method10>
+      <method11>System.String GetClassificationAnimal()</method11>
+      <method12>System.Type GetType()</method12>
+      <method13>System.String ToString()</method13>
+      <method14>Boolean Equals(System.Object)</method14>
+      <method15>Int32 GetHashCode()</method15>
+    </methods>
+  </class>
+  <class name="Lab_07_01.Animal+Lion">
+    <properties>
+      <property1>System.String Country</property1>
+      <property2>System.String HideFromOtherAnimals</property2>
+      <property3>System.String Name</property3>
+      <property4>System.String WhatAnimal</property4>
+    </properties>
+    <methods>
+      <method1>System.String get_Country()</method1>
+      <method2>Void set_Country(System.String)</method2>
+      <method3>System.String get_HideFromOtherAnimals()</method3>
+      <method4>Void set_HideFromOtherAnimals(System.String)</method4>
+      <method5>System.String get_Name()</method5>
+      <method6>Void set_Name(System.String)</method6>
+      <method7>System.String get_WhatAnimal()</method7>
+      <method8>Void set_WhatAnimal(System.String)</method8>
+      <method9>eFavouriteFood GetFavoriteFood()</method9>
+      <method10>Void SayHello()</method10>
+      <method11>System.String GetClassificationAnimal()</method11>
+      <method12>System.Type GetType()</method12>
+      <method13>System.String ToString()</method13>
+      <method14>Boolean Equals(System.Object)</method14>
+      <method15>Int32 GetHashCode()</method15>
+    </methods>
+  </class>
+  <class name="Lab_07_01.Animal+Pig">
+    <properties>
+      <property1>System.String Country</property1>
+      <property2>System.String HideFromOtherAnimals</property2>
+      <property3>System.String Name</property3>
+      <property4>System.String WhatAnimal</property4>
+    </properties>
+    <methods>
+      <method1>System.String get_Country()</method1>
+      <method2>Void set_Country(System.String)</method2>
+      <method3>System.String get_HideFromOtherAnimals()</method3>
+      <method4>Void set_HideFromOtherAnimals(System.String)</method4>
+      <method5>System.String get_Name()</method5>
+      <method6>Void set_Name(System.String)</method6>
+      <method7>System.String get_WhatAnimal()</method7>
+      <method8>Void set_WhatAnimal(System.String)</method8>
+      <method9>eFavouriteFood GetFavoriteFood()</method9>
+      <method10>Void SayHello()</method10>
+      <method11>System.String GetClassificationAnimal()</method11>
+      <method12>System.Type GetType()</method12>
+      <method13>System.String ToString()</method13>
+      <method14>Boolean Equals(System.Object)</method14>
+      <method15>Int32 GetHashCode()</method15>
+    </methods>
+  </class>
+</classes>
